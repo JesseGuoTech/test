@@ -1,3 +1,1 @@
-import random
-if(random.randint(0,1)):
-    print("红灯，停")
+print("你看你🐎呢?")
