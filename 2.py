@@ -1,3 +1,3 @@
-str = input()
-list = str.split("/")
-print("{}-{:0>2}-{:0>2}".format(list[2],list[0],list[1]))
+import random
+if(random.randint(0,1)):
+    print("红灯，停")
